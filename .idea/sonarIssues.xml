@@ -413,6 +413,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/MainLayout/MainLayout.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/pages/PageProducts/components/Products.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/constants/apiPaths.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
