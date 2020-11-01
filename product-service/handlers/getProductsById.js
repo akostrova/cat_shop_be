@@ -15,7 +15,11 @@ export const getProductsById = async (event) => {
         console.log('Lambda result body catListElement: ', catListElement);
         return {
             statusCode: 200,
-            body: JSON.stringify(catListElement)
+            body: JSON.stringify(catListElement),
+            headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Credentials': true
+            }
         };
     }
 };

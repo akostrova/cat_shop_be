@@ -423,12 +423,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/serverless.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/MainLayout/MainLayout.tsx">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/pages/PageProductForm/PageProductForm.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/pages/PageProducts/components/Products.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejs-aws-fe/src/components/pages/admin/PageProductImport/components/ProductsTable.tsx">
           <value>
             <set />
           </value>
