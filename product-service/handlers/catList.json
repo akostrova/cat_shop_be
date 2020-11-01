@@ -4,20 +4,23 @@
     "name": "Murka",
     "price": "100",
     "count": 12,
-    "title": "Cute cat"
+    "title": "Cute cat",
+    "description": "Cute cat Description1"
   },
   {
     "id": "2",
     "name": "Bazilio",
     "price": "300",
     "count": 4,
-    "title": "Silly cat"
+    "title": "Silly cat",
+    "description": "Silly cat Description2"
   },
   {
     "id": "3",
     "name": "Boss",
     "price": "1000",
     "count": 1,
-    "title": "Bossy cat"
+    "title": "Bossy cat",
+    "description": "Bossy cat Description3"
   }
 ]
